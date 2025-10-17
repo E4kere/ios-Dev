@@ -39,7 +39,7 @@ I listen to \(musicGenre) music and I am \(isRightHanded ? "right" : "left")-han
 """
 
 
-var futureGoals: String = "In the future, I want to become a professional iOS developer and create amazing mobile applications."
+var futureGoals: String = "In the future, I want to win Major. And take #1 HLTV. And take Best rifler. And best openfrager."
 var dreamJob: String = "Cybersportsmen 👨‍💻"
 var favoriteEmoji: String = "🚀"
 var motivationalQuote: String = "grind cs2 💡"
